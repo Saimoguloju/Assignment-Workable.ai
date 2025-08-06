@@ -1,0 +1,37 @@
+# Core dependencies
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+chromadb
+
+# PDF Processing
+PyPDF2
+pdfplumber
+pymupdf
+pytesseract
+pdf2image
+
+# OCR
+easyocr
+opencv-python
+
+# Data Processing
+numpy
+pandas
+Pillow
+
+# Utilities
+python-dotenv
+pydantic
+tenacity
+tqdm
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+
+# Export formats
+latex
+markdown
