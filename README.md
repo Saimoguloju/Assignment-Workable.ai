@@ -363,7 +363,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub or contact:
-- Email: your.email@example.com
+- Email: saimoguloju2@gmail.com
 - LinkedIn: [Your Profile](https://www.linkedin.com/in/moguloju-sai-2b060b228/)
 
 ---
